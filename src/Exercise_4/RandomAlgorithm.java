@@ -1,6 +1,5 @@
 package Exercise_4;
 
-import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class RandomAlgorithm {
